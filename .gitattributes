@@ -1,0 +1,2 @@
+CUSGA-OF-KAIBAI filter=lfs diff=lfs merge=lfs -text
+Projects filter=lfs diff=lfs merge=lfs -text
